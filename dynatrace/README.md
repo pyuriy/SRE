@@ -119,7 +119,8 @@ Once data ingests:
 This lab gives you production-grade monitoring foundations quickly. Dynatrace's strength is **automation + AI (Davis)** — minimal manual configuration for deep insights.
 
 
-## Advanced Hands-On Lab: Mastering Key Dynatrace Capabilities**  
+## Advanced Hands-On Lab: Mastering Key Dynatrace Capabilities
+
 Focus areas: **DQL**, **Gen3 Dashboards**, **Traces on Grail**, **ActiveGate Plugins**, **SRG Workflow Development**, and **Business Events**.
 
 ### Prerequisites
